@@ -1,0 +1,231 @@
+Facility Name,Facility Name Normalized,Changed,VLOOKUP,Date Collected,State,County,City,State Facility Type,CTP Facility Categorization,State/Fed Regulated,State Facility ID,CMS Facility ID,Date outbreak opened,Date outreak closed,Outbreak Status,Resident Census,Resident Positives,Resident Probable Positives,Resident Deaths,Resident Probable Deaths,Staff Positive,Staff Probable Positives,Staff Deaths,Staff Probable Deaths,Resident/Staff Positives,Resident/Staff Probable Positives,Resident/Staff Deaths,Resident/Staff Probable Deaths,Resident Positives.1,Resident Probable Positives.1,Resident Deaths.1,Resident Probable Deaths.1,Staff Positive.1,Staff Probable Positives.1,Staff Deaths.1,Staff Probable Deaths.1,Resident/Staff Positives.1,Resident/Staff Probable Positives.1,Resident/Staff Deaths.1,Resident/Staff Probable Deaths.1,Residents Tested,Staff Tested,Personal Protective Equipment,VLOOKUP2,Change Score,VlookupMatch
+AarenBrooke Place,AARENBROOKE PLACE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AVAMERE TRANSITIONAL CARE,43,False
+Arbor Valley of Cascadia,ARBOR VALLEY OF CASCADIA,,ARBOR VALLEY OF CASCADIA,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,21.0,,0.0,,,,,,,,,,21.0,,0.0,,,,,ARBOR VALLEY OF CASCADIA,100,True
+Arbor Village at Hillcrest,ARBOR VILLAGE AT HILLCREST,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,17.0,,0.0,,,,,,,,,,17.0,,0.0,,,,,GOOD SAMARITAN SOCIETY – BOISE VILLAGE,52,False
+Ashley Manor – Cloverdale,ASHLEY MANOR – CLOVERDALE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,4.0,,0.0,,,,,,,,,,4.0,,0.0,,,,,LIFE CARE OF TREASURE VALLEY,45,False
+Ashley Manor – Eagle House #2,ASHLEY MANOR – EAGLE HOUSE #2,,,20201105,ID,ADA,EAGLE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LIFE CARE OF BOISE,43,False
+Ashley Manor – Hyde Park,ASHLEY MANOR – HYDE PARK,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SHAW MOUNTAIN OF CASCADIA,41,False
+Aspen Transitional Rehab,ASPEN TRANSITIONAL REHABILITATION,,ASPEN TRANSITIONAL REHABILITATION,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASPEN TRANSITIONAL REHABILITATION,100,True
+Aspen Valley Senior Living,ASPEN VALLEY SENIOR LIVING,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LIFE CARE OF TREASURE VALLEY,53,False
+Aspire – Fieldstone,ASPIRE – FIELDSTONE,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CASCADIA OF BOISE,44,False
+Autumn Cove,AUTUMN COVE,,,20201105,ID,ADA,STAR,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RIVERVIEW REHABILITATION,47,False
+Avamere Transitional Care,AVAMERE TRANSITIONAL CARE,,AVAMERE TRANSITIONAL CARE,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AVAMERE TRANSITIONAL CARE,100,True
+Brookdale Boise Parkcenter,BROOKDALE BOISE PARKCENTER,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CASCADIA OF BOISE,86,False
+Cascadia of Boise,CASCADIA OF BOISE,,CASCADIA OF BOISE,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,22.0,,0.0,,,,,,,,,,22.0,,0.0,,,,,CASCADIA OF BOISE,100,True
+Copper Springs Senior Living,COPPER SPRINGS SENIOR LIVING,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GOOD SAMARITAN SOCIETY – BOISE VILLAGE,42,False
+Cottages at Lochsa Falls,COTTAGES AT LOCHSA FALLS,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CASCADIA OF NAMPA,39,False
+Creekside Transitional Care,CREEKSIDE TRANSITIONAL CARE,,CREEKSIDE TRANSITIONAL CARE,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Open,,,,,,,,,,63.0,,7.0,,,,,,,,,,63.0,,7.0,,,,,CREEKSIDE TRANSITIONAL CARE,100,True
+Edgewood - Eagle,EDGEWOOD - EAGLE,,,20201105,ID,ADA,EAGLE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GOOD SAMARITAN SOCIETY – BOISE VILLAGE,41,False
+Edgewood Castle Hills,EDGEWOOD CASTLE HILLS,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,3.0,,0.0,,,,,,,,,,3.0,,0.0,,,,,GOOD SAMARITAN SOCIETY – BOISE VILLAGE,44,False
+Edgewood Plantation Place,EDGEWOOD PLANTATION PLACE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,29.0,,1.0,,,,,,,,,,29.0,,1.0,,,,,RIVERVIEW REHABILITATION,45,False
+Edgewood Spring Creek - Overland,EDGEWOOD SPRING CREEK - OVERLAND,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,13.0,,3.0,,,,,,,,,,13.0,,3.0,,,,,GOOD SAMARITAN SOCIETY – BOISE VILLAGE,54,False
+Edgewood Spring Creek Eagle Island,EDGEWOOD SPRING CREEK EAGLE ISLAND,,,20201105,ID,ADA,EAGLE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,38.0,,4.0,,,,,,,,,,38.0,,4.0,,,,,GOOD SAMARITAN SOCIETY – BOISE VILLAGE,50,False
+Edgewood Spring Creek Memory Care – Five Mile,EDGEWOOD SPRING CREEK MEMORY CARE – FIVE MILE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,26.0,,2.0,,,,,,,,,,26.0,,2.0,,,,,LIFE CARE OF BOISE,86,False
+Edgewood Spring Creek Meridian,EDGEWOOD SPRING CREEK MERIDIAN,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Open,,,,,,,,,,33.0,,3.0,,,,,,,,,,33.0,,3.0,,,,,MERIDIAN MEADOWS,86,False
+Edgewood– Ustick,EDGEWOOD– USTICK,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GOOD SAMARITAN SOCIETY – BOISE VILLAGE,45,False
+Emerson House at Riverpointe,EMERSON HOUSE AT RIVERPOINTE,,,20201105,ID,ADA,GARDEN CITY,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RIVERVIEW REHABILITATION,44,False
+Foxtail Senior Living,FOXTAIL SENIOR LIVING,,,20201105,ID,ADA,EAGLE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GOOD SAMARITAN SOCIETY – BOISE VILLAGE,39,False
+Garden Plaza of Valley View – Bridge  at Valley View,GARDEN PLAZA OF VALLEY VIEW – BRIDGE AT VALLEY VIEW,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,31.0,,0.0,,,,,,,,,,31.0,,0.0,,,,,CASCADIA OF NAMPA,86,False
+Garden Plaza of Valley View – Valley View Nursing & Rehab,GARDEN PLAZA OF VALLEY VIEW – VALLEY VIEW NURSING AND REHABILITATION,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,103.0,,11.0,,,,,,,,,,103.0,,11.0,,,,,VALLEY VIEW NURSING AND REHABILITATION,90,False
+Golden Years Oak Crest,GOLDEN YEARS OAK CREST,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Open,,,,,,,,,,12.0,,1.0,,,,,,,,,,12.0,,1.0,,,,,LIFE CARE OF TREASURE VALLEY,46,False
+Good Samaritan Society – Boise  Village,GOOD SAMARITAN SOCIETY – BOISE VILLAGE,,GOOD SAMARITAN SOCIETY – BOISE VILLAGE,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GOOD SAMARITAN SOCIETY – BOISE VILLAGE,100,True
+Grace Assisted Living -Fairview Lakes,GRACE ASSISTED LIVING -FAIRVIEW LAKES,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Open,,,,,,,,,,47.0,,3.0,,,,,,,,,,47.0,,3.0,,,,,LIFE CARE OF BOISE,43,False
+Grace Assisted Living at State St.,GRACE ASSISTED LIVING AT STATE ST.,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,3.0,,0.0,,,,,,,,,,3.0,,0.0,,,,,ST LUKE'S REHABILITATION - ELKS SUB ACUTE REHABILITATION UNIT,86,False
+Grace Memory Care,GRACE MEMORY CARE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LIFE CARE OF TREASURE VALLEY,86,False
+Harmony Hills,HARMONY HILLS,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ST LUKE'S REHABILITATION - ELKS SUB ACUTE REHABILITATION UNIT,46,False
+Independent Living Services  Freedom,INDEPENDENT LIVING SERVICES FREEDOM,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,1.0,,0.0,,,,,,,,,,1.0,,0.0,,,,,TERRACES OF BOISE,43,False
+Independent Living Services – Five Mile,INDEPENDENT LIVING SERVICES – FIVE MILE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,21.0,,0.0,,,,,,,,,,21.0,,0.0,,,,,TERRACES OF BOISE,48,False
+Ivy Place & Amber Lane,IVY PLACE AND AMBER LANE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VALLEY VIEW NURSING AND REHABILITATION,86,False
+Life Care of Boise,LIFE CARE OF BOISE,,LIFE CARE OF BOISE,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LIFE CARE OF BOISE,100,True
+Life Care of Treasure Valley,LIFE CARE OF TREASURE VALLEY,,LIFE CARE OF TREASURE VALLEY,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LIFE CARE OF TREASURE VALLEY,100,True
+Meridian Meadows,MERIDIAN MEADOWS,,MERIDIAN MEADOWS,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,MERIDIAN MEADOWS,100,True
+MorningStar Memory Care at Englefield Green,MORNINGSTAR MEMORY CARE AT ENGLEFIELD GREEN,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TERRACES OF BOISE,37,False
+MorningStar Senior Living of Boise,MORNINGSTAR SENIOR LIVING OF BOISE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,11.0,,0.0,,,,,,,,,,11.0,,0.0,,,,,CASCADIA OF NAMPA,86,False
+Overland Court Generations Memory Care,OVERLAND COURT GENERATIONS MEMORY CARE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,28.0,,0.0,,,,,,,,,,28.0,,0.0,,,,,VALLEY VIEW NURSING AND REHABILITATION,43,False
+Overland Court Senior Living,OVERLAND COURT SENIOR LIVING,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,29.0,,7.0,,,,,,,,,,29.0,,7.0,,,,,RIVERVIEW REHABILITATION,42,False
+Paramount Parks,PARAMOUNT PARKS,,,20201105,ID,ADA,EAGLE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SHAW MOUNTAIN OF CASCADIA,45,False
+Park Place Assisted Living of Boise,PARK PLACE ASSISTED LIVING OF BOISE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,CASCADIA OF NAMPA,86,False
+Regency Columbia Village,REGENCY COLUMBIA VILLAGE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,1.0,,0.0,,,,,,,,,,1.0,,0.0,,,,,RIVERVIEW REHABILITATION,36,False
+Riverview Rehabilitation,RIVERVIEW REHABILITATION,,RIVERVIEW REHABILITATION,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RIVERVIEW REHABILITATION,100,True
+Shaw Mountain of Cascadia,SHAW MOUNTAIN OF CASCADIA,,SHAW MOUNTAIN OF CASCADIA,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,63.0,,6.0,,,,,,,,,,63.0,,6.0,,,,,SHAW MOUNTAIN OF CASCADIA,100,True
+State Veterans Home – Boise,STATE VETERANS HOME – BOISE,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,46.0,,2.0,,,,,,,,,,46.0,,2.0,,,,,IDAHO STATE VETERANS HOME - BOISE,95,False
+Swan Falls Assisted Living,SWAN FALLS ASSISTED LIVING,,,20201105,ID,ADA,KUNA,,Uncategorized LTC,,,,,,Open,,,,,,,,,,1.0,,0.0,,,,,,,,,,1.0,,0.0,,,,,ST LUKE'S REHABILITATION - ELKS SUB ACUTE REHABILITATION UNIT,41,False
+Terraces of Boise,TERRACES OF BOISE,,TERRACES OF BOISE,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,17.0,,1.0,,,,,,,,,,17.0,,1.0,,,,,TERRACES OF BOISE,100,True
+The Cottages – Meridian,THE COTTAGES – MERIDIAN,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CASCADIA OF NAMPA,40,False
+Tomorrow’s Hope - Lavin,TOMORROW’S HOPE - LAVIN,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Open,,,,,,,,,,8.0,,0.0,,,,,,,,,,8.0,,0.0,,,,,ST LUKE'S REHABILITATION - ELKS SUB ACUTE REHABILITATION UNIT,86,False
+Tomorrow’s Hope – Deb,TOMORROW’S HOPE – DEB,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ST LUKE'S REHABILITATION - ELKS SUB ACUTE REHABILITATION UNIT,86,False
+Tomorrow’s Hope – Eagle,TOMORROW’S HOPE – EAGLE,,,20201105,ID,ADA,EAGLE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ST LUKE'S REHABILITATION - ELKS SUB ACUTE REHABILITATION UNIT,86,False
+Tomorrow’s Hope – Sapphire,TOMORROW’S HOPE – SAPPHIRE,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ST LUKE'S REHABILITATION - ELKS SUB ACUTE REHABILITATION UNIT,86,False
+Touchmark at Meadow Lake Village,TOUCHMARK AT MEADOW LAKE VILLAGE,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Open,,,,,,,,,,73.0,,10.0,,,,,,,,,,73.0,,10.0,,,,,ST LUKE'S REHABILITATION - ELKS SUB ACUTE REHABILITATION UNIT,38,False
+Trinity Assisted Living,TRINITY ASSISTED LIVING,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ST LUKE'S REHABILITATION - ELKS SUB ACUTE REHABILITATION UNIT,41,False
+Trinity at 1st Street,TRINITY AT 1ST STREET,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,ST LUKE'S REHABILITATION - ELKS SUB ACUTE REHABILITATION UNIT,42,False
+Veranda Senior Living - Paramount,VERANDA SENIOR LIVING - PARAMOUNT,,,20201105,ID,ADA,MERIDIAN,,Uncategorized LTC,,,,,,Open,,,,,,,,,,9.0,,0.0,,,,,,,,,,9.0,,0.0,,,,,VALLEY VIEW NURSING AND REHABILITATION,42,False
+Veranda Senior Living – Barber Station,VERANDA SENIOR LIVING – BARBER STATION,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,27.0,,5.0,,,,,,,,,,27.0,,5.0,,,,,VALLEY VIEW NURSING AND REHABILITATION,50,False
+Willow Park Senior Living,WILLOW PARK SENIOR LIVING,,,20201105,ID,ADA,BOISE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,27.0,,5.0,,,,,,,,,,27.0,,5.0,,,,,VALLEY VIEW NURSING AND REHABILITATION,38,False
+Brookdale Pocatello,BROOKDALE POCATELLO,,,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Open,,,,,,,,,,7.0,,1.0,,,,,,,,,,7.0,,1.0,,,,,IDAHO STATE VETERANS HOME - POCATELLO,86,False
+Caring Hearts Assisted Living,CARING HEARTS ASSISTED LIVING,,,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Open,,,,,,,,,,16.0,,2.0,,,,,,,,,,16.0,,2.0,,,,,GATEWAY TRANSITIONAL CARE CENTER,41,False
+Copper Summit Assisted Living,COPPER SUMMIT ASSISTED LIVING,,,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MONTE VISTA HILLS,42,False
+Elegant Residential Living,ELEGANT RESIDENTIAL LIVING,,,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Open,,,,,,,,,,9.0,,0.0,,,,,,,,,,9.0,,0.0,,,,,GATEWAY TRANSITIONAL CARE CENTER,46,False
+Gables of Pocatello 1,GABLES OF POCATELLO 1,,,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,IDAHO STATE VETERANS HOME - POCATELLO,86,False
+Gateway Transitional Care Center,GATEWAY TRANSITIONAL CARE CENTER,,GATEWAY TRANSITIONAL CARE CENTER,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Open,,,,,,,,,,4.0,,0.0,,,,,,,,,,4.0,,0.0,,,,,GATEWAY TRANSITIONAL CARE CENTER,100,True
+Independence Home,INDEPENDENCE HOME,,,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Open,,,,,,,,,,5.0,,0.0,,,,,,,,,,5.0,,0.0,,,,,IDAHO STATE VETERANS HOME - POCATELLO,86,False
+McCoy House Group Home,MCCOY HOUSE GROUP HOME,,,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAHO STATE VETERANS HOME - POCATELLO,86,False
+Monte Vista Hills,MONTE VISTA HILLS,,MONTE VISTA HILLS,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Open,,,,,,,,,,5.0,,0.0,,,,,,,,,,5.0,,0.0,,,,,MONTE VISTA HILLS,100,True
+Olympus Heights Home,OLYMPUS HEIGHTS HOME,,,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAHO STATE VETERANS HOME - POCATELLO,86,False
+Quail Ridge,QUAIL RIDGE,,,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,QUINN MEADOWS REHABILITATION AND CARE CENTER,47,False
+Quinn Meadows Rehab & Care Center,QUINN MEADOWS REHABILITATION AND CARE CENTER,,QUINN MEADOWS REHABILITATION AND CARE CENTER,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,QUINN MEADOWS REHABILITATION AND CARE CENTER,100,True
+South Bannock Home,SOUTH BANNOCK HOME,,,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAHO STATE VETERANS HOME - POCATELLO,86,False
+State Veterans Home – Pocatello,IDAHO STATE VETERANS HOME - POCATELLO,,IDAHO STATE VETERANS HOME - POCATELLO,20201105,ID,BANNOCK,POCATELLO,,Uncategorized LTC,,,,,,Open,,,,,,,,,,7.0,,0.0,,,,,,,,,,7.0,,0.0,,,,,IDAHO STATE VETERANS HOME - POCATELLO,100,True
+Whispering Pines Assisted Living,WHISPERING PINES ASSISTED LIVING,,,20201105,ID,BANNOCK,DOWNEY,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Bear Lake Manor,BEAR LAKE MEMORIAL SKILLED NURSING FACILITY,,BEAR LAKE MEMORIAL SKILLED NURSING FACILITY,20201105,ID,BEAR LAKE,MONTPELIER,,Uncategorized LTC,,,,,,Open,,,,,,,,,,5.0,,0.0,,,,,,,,,,5.0,,0.0,,,,,BEAR LAKE MEMORIAL SKILLED NURSING FACILITY,100,True
+Bear Lake Memorial Skilled Nursing,BEAR LAKE MEMORIAL SKILLED NURSING,,,20201105,ID,BEAR LAKE,MONTPELIER,,Uncategorized LTC,,,,,,Open,,,,,,,,,,7.0,,0.0,,,,,,,,,,7.0,,0.0,,,,,,,False
+Valley Vista Care – St. Maries,VALLEY VISTA CARE – ST. MARIES,,VALLEY VISTA CARE – ST. MARIES,20201105,ID,BENEWAH,ST. MARIES,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VALLEY VISTA CARE – ST. MARIES,100,True
+Bingham Memorial Skilled Nursing,BINGHAM MEMORIAL SKILLED NURSING,,BINGHAM MEMORIAL SKILLED NURSING,20201105,ID,BINGHAM,BLACKFOOT,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BINGHAM MEMORIAL SKILLED NURSING,100,True
+Gem Village Assisted Living,GEM VILLAGE ASSISTED LIVING,,,20201105,ID,BINGHAM,BLACKFOOT,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYRINGA CHALET NURSING FACILITY,36,False
+Syringa Chalet Nursing Facility,SYRINGA CHALET NURSING FACILITY,,SYRINGA CHALET NURSING FACILITY,20201105,ID,BINGHAM,BLACKFOOT,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,SYRINGA CHALET NURSING FACILITY,100,True
+Willows Retirement & Assisted Living,WILLOWS RETIREMENT AND ASSISTED LIVING,,,20201105,ID,BINGHAM,BLACKFOOT,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Cove of Cascadia,COVE OF CASCADIA,,COVE OF CASCADIA,20201105,ID,BLAINE,BELLEVUE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,6.0,,0.0,,,,,,,,,,6.0,,0.0,,,,,COVE OF CASCADIA,100,True
+Silver Creek,SILVER CREEK,,,20201105,ID,BLAINE,HAILEY,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Life Care Center of Sandpoint,LIFE CARE CENTER OF SANDPOINT,,LIFE CARE CENTER OF SANDPOINT,20201105,ID,BONNER,SANDPOINT,,Uncategorized LTC,,,,,,Open,,,,,,,,,,9.0,,2.0,,,,,,,,,,9.0,,2.0,,,,,LIFE CARE CENTER OF SANDPOINT,100,True
+Valley Vista Care – Sandpoint,VALLEY VISTA CARE – SANDPOINT,,VALLEY VISTA CARE – SANDPOINT,20201105,ID,BONNER,SANDPOINT,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VALLEY VISTA CARE – SANDPOINT,100,True
+Broadway Fields Assisted Living,BROADWAY FIELDS ASSISTED LIVING,,,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,1.0,,0.0,,,,,,,,,,1.0,,0.0,,,,,PROMONTORY POINT REHABILITATION,39,False
+Fairwinds – Sand Creek,FAIRWINDS – SAND CREEK,,,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,5.0,,0.0,,,,,,,,,,5.0,,0.0,,,,,TETON POST-ACUTE CARE AND REHABILITATION,40,False
+Gables Assisted Living of Ammon,GABLES ASSISTED LIVING OF AMMON,,,20201105,ID,BONNEVILLE,AMMON,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LIFE CARE CENTER OF IDAHO FALLS,43,False
+Gables Assisted Living of Idaho Falls,GABLES ASSISTED LIVING OF IDAHO FALLS,,,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LIFE CARE CENTER OF IDAHO FALLS,65,False
+Good Samaritan – Idaho Falls Village,GOOD SAMARITAN SOCIETY - IDAHO FALLS VILLAGE,,GOOD SAMARITAN SOCIETY - IDAHO FALLS VILLAGE,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,3.0,,0.0,,,,,,,,,,3.0,,0.0,,,,,GOOD SAMARITAN SOCIETY - IDAHO FALLS VILLAGE,100,True
+Life Care Center of Idaho Falls,LIFE CARE CENTER OF IDAHO FALLS,,LIFE CARE CENTER OF IDAHO FALLS,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,19.0,,1.0,,,,,,,,,,19.0,,1.0,,,,,LIFE CARE CENTER OF IDAHO FALLS,100,True
+Lily and Syringa Assisted Living,LILY AND SYRINGA ASSISTED LIVING,,,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,1.0,,0.0,,,,,,,,,,1.0,,0.0,,,,,TETON POST-ACUTE CARE AND REHABILITATION,40,False
+Lincoln Court Retirement Community,LINCOLN COURT RETIREMENT COMMUNITY,,,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,22.0,,0.0,,,,,,,,,,22.0,,0.0,,,,,TETON POST-ACUTE CARE AND REHABILITATION,41,False
+MorningStar of Idaho Falls,MORNINGSTAR OF IDAHO FALLS,,,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROMONTORY POINT REHABILITATION,39,False
+Parkwood Meadows,PARKWOOD MEADOWS,,,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,5.0,,0.0,,,,,,,,,,5.0,,0.0,,,,,TETON POST-ACUTE CARE AND REHABILITATION,38,False
+Promontory Point Rehabilitation,PROMONTORY POINT REHABILITATION,,PROMONTORY POINT REHABILITATION,20201105,ID,BONNEVILLE,AMMON,,Uncategorized LTC,,,,,,Open,,,,,,,,,,1.0,,0.0,,,,,,,,,,1.0,,0.0,,,,,PROMONTORY POINT REHABILITATION,100,True
+Tambree Meadows Assisted Living,TAMBREE MEADOWS ASSISTED LIVING,,,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TETON POST-ACUTE CARE AND REHABILITATION,42,False
+Teton Post-Acute Care and Rehab,TETON POST-ACUTE CARE AND REHABILITATION,,TETON POST-ACUTE CARE AND REHABILITATION,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,9.0,,0.0,,,,,,,,,,9.0,,0.0,,,,,TETON POST-ACUTE CARE AND REHABILITATION,100,True
+Yellowstone Group Home #1,YELLOWSTONE GROUP HOME #1,,,20201105,ID,BONNEVILLE,IDAHO FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,13.0,,0.0,,,,,,,,,,13.0,,0.0,,,,,,,False
+Boundary County Nursing Home,BOUNDARY COUNTY NURSING HOME,,BOUNDARY COUNTY NURSING HOME,20201105,ID,BOUNDARY,BONNERS  FERRY,,Uncategorized LTC,,,,,,Open,,,,,,,,,,4.0,,0.0,,,,,,,,,,4.0,,0.0,,,,,BOUNDARY COUNTY NURSING HOME,100,True
+Sunset Home Assisted Living,SUNSET HOME ASSISTED LIVING,,,20201105,ID,BOUNDARY,BONNERS FERRY,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Antelope Creek Living Center,ANTELOPE CREEK LIVING CENTER,,,20201105,ID,BUTTE,DARLINGTON,,Uncategorized LTC,,,,,,Open,,,,,,,,,,8.0,,0.0,,,,,,,,,,8.0,,0.0,,,,,,,False
+Aging Gracefully,AGING GRACEFULLY,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MEADOW VIEW NURSING AND REHABILITATION,38,False
+Ashley Manor - Midland,ASHLEY MANOR - MIDLAND,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CALDWELL CARE OF CASCADIA,43,False
+Aspire – Milliken,ASPIRE – MILLIKEN,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUNNY RIDGE (SKILLED NURSING),48,False
+Autumn Wind,AUTUMN WIND,,,20201105,ID,CANYON,CALDWELL,,Uncategorized LTC,,,,,,Open,,,,,,,,,,38.0,,0.0,,,,,,,,,,38.0,,0.0,,,,,MEADOW VIEW NURSING AND REHABILITATION,40,False
+Caldwell Care of Cascadia,CALDWELL CARE OF CASCADIA,,CALDWELL CARE OF CASCADIA,20201105,ID,CANYON,CALDWELL,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CALDWELL CARE OF CASCADIA,100,True
+Canyon West of Cascadia,CANYON WEST OF CASCADIA,,CANYON WEST OF CASCADIA,20201105,ID,CANYON,CALDWELL,,Uncategorized LTC,,,,,,Open,,,,,,,,,,105.0,,9.0,,,,,,,,,,105.0,,9.0,,,,,CANYON WEST OF CASCADIA,100,True
+Cascadia of Nampa,CASCADIA OF NAMPA,,CASCADIA OF NAMPA,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Open,,,,,,,,,,86.0,,3.0,,,,,,,,,,86.0,,3.0,,,,,ORCHARDS OF CASCADIA,75,False
+CommuniCare #7 Cougar,COMMUNICARE #7 COUGAR,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ORCHARDS OF CASCADIA,39,False
+Communicare #1 Gem,COMMUNICARE #1 GEM,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUNNY RIDGE (SKILLED NURSING),35,False
+Cottages of Nampa,COTTAGES OF NAMPA,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,ORCHARDS OF CASCADIA,49,False
+"Family Life, Nampa","FAMILY LIFE, NAMPA",,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUNNY RIDGE (SKILLED NURSING),35,False
+Grace Assisted Living,GRACE ASSISTED LIVING,,,20201105,ID,CANYON,CALDWELL,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUNNY RIDGE (SKILLED NURSING),45,False
+Grace Assisted Living – Nampa,GRACE ASSISTED LIVING – NAMPA,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Open,,,,,,,,,,16.0,,0.0,,,,,,,,,,16.0,,0.0,,,,,KARCHER ESTATES,42,False
+Harbor Assisted Living,HARBOR ASSISTED LIVING,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ORCHARDS OF CASCADIA,43,False
+Heron Place,HERON PLACE,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KARCHER ESTATES,46,False
+Karcher Estates,KARCHER ESTATES,,KARCHER ESTATES,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Open,,,,,,,,,,53.0,,4.0,,,,,,,,,,53.0,,4.0,,,,,KARCHER ESTATES,100,True
+Lenity Senior Living,LENITY SENIOR LIVING,,,20201105,ID,CANYON,CALDWELL,,Uncategorized LTC,,,,,,Open,,,,,,,,,,34.0,,3.0,,,,,,,,,,34.0,,3.0,,,,,SUNNY RIDGE (SKILLED NURSING),42,False
+Meadow View Nursing & Rehab,MEADOW VIEW NURSING AND REHABILITATION,,MEADOW VIEW NURSING AND REHABILITATION,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Open,,,,,,,,,,105.0,,7.0,,,,,,,,,,105.0,,7.0,,,,,MEADOW VIEW NURSING AND REHABILITATION,100,True
+Midland Manor,MIDLAND MANOR,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUNNY RIDGE (SKILLED NURSING),41,False
+Orchards of Cascadia,ORCHARDS OF CASCADIA,,ORCHARDS OF CASCADIA,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ORCHARDS OF CASCADIA,100,True
+Park Place Assisted Living,PARK PLACE ASSISTED LIVING,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUNNY RIDGE (SKILLED NURSING),41,False
+Southwest Idaho Treatment Center,SOUTHWEST IDAHO TREATMENT CENTER,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WELLSPRING OF CASCADIA,35,False
+Streamside Assisted Living,STREAMSIDE ASSISTED LIVING,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Open,,,,,,,,,,29.0,,3.0,,,,,,,,,,29.0,,3.0,,,,,SUNNY RIDGE (SKILLED NURSING),52,False
+Sunny Ridge (Skilled Nursing),SUNNY RIDGE (SKILLED NURSING),,SUNNY RIDGE (SKILLED NURSING),20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Open,,,,,,,,,,12.0,,0.0,,,,,,,,,,12.0,,0.0,,,,,SUNNY RIDGE (SKILLED NURSING),100,True
+Tomorrow’s Hope -Nampa,TOMORROW’S HOPE -NAMPA,,,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WELLSPRING OF CASCADIA,32,False
+Wellspring of Cascadia,WELLSPRING OF CASCADIA,,WELLSPRING OF CASCADIA,20201105,ID,CANYON,NAMPA,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WELLSPRING OF CASCADIA,100,True
+Caribou Memorial Living Center,CARIBOU MEMORIAL LIVING CENTER,,CARIBOU MEMORIAL LIVING CENTER,20201105,ID,CARIBOU,SODA SPRINGS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,8.0,,0.0,,,,,,,,,,8.0,,0.0,,,,,CARIBOU MEMORIAL LIVING CENTER,100,True
+Edgewood Spring Creek Soda  Springs,EDGEWOOD SPRING CREEK SODA SPRINGS,,,20201105,ID,CARIBOU,SODA  SPRINGS,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Diamond Peak of Burley,DIAMOND PEAK OF BURLEY,,,20201105,ID,CASSIA,BURLEY,,Uncategorized LTC,,,,,,Open,,,,,,,,,,1.0,,0.0,,,,,,,,,,1.0,,0.0,,,,,PARKE VIEW REHABILITATION,36,False
+Highland Estates,HIGHLAND ESTATES,,,20201105,ID,CASSIA,BURLEY,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MINI CASSIA CARE CENTER,39,False
+Mini Cassia Care Center,MINI CASSIA CARE CENTER,,MINI CASSIA CARE CENTER,20201105,ID,CASSIA,BURLEY,,Uncategorized LTC,,,,,,Open,,,,,,,,,,79.0,,0.0,,,,,,,,,,79.0,,0.0,,,,,MINI CASSIA CARE CENTER,100,True
+Parke View Rehab,PARKE VIEW REHABILITATION,,PARKE VIEW REHABILITATION,20201105,ID,CASSIA,BURLEY,,Uncategorized LTC,,,,,,Open,,,,,,,,,,14.0,,0.0,,,,,,,,,,14.0,,0.0,,,,,PARKE VIEW REHABILITATION,100,True
+Brookside Landing,BROOKSIDE LANDING,,,20201105,ID,CLEARWATER,OROFINO,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CLEARWATER HEALTH AND REHABILITATION OF CASCADIA,37,False
+Clearwater Health & Rehab of Cascadia,CLEARWATER HEALTH AND REHABILITATION OF CASCADIA,,CLEARWATER HEALTH AND REHABILITATION OF CASCADIA,20201105,ID,CLEARWATER,OROFINO,,Uncategorized LTC,,,,,,Open,,,,,,,,,,1.0,,0.0,,,,,,,,,,1.0,,0.0,,,,,CLEARWATER HEALTH AND REHABILITATION OF CASCADIA,100,True
+Diamond Peak Health Care of Challis,DIAMOND PEAK HEALTH CARE OF CHALLIS,,,20201105,ID,CUSTER,CHALLIS,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Franklin County Transitional Care,FRANKLIN COUNTY TRANSITIONAL CARE,,FRANKLIN COUNTY TRANSITIONAL CARE,20201105,ID,FRANKLIN,PRESTON,,Uncategorized LTC,,,,,,Open,,,,,,,,,,13.0,,0.0,,,,,,,,,,13.0,,0.0,,,,,FRANKLIN COUNTY TRANSITIONAL CARE,100,True
+Heritage Senior Living,HERITAGE SENIOR LIVING,,,20201105,ID,FRANKLIN,PRESTON,,Uncategorized LTC,,,,,,Open,,,,,,,,,,4.0,,0.0,,,,,,,,,,4.0,,0.0,,,,,,,False
+Ashton Memorial Living Center,ASHTON MEMORIAL LIVING CENTER,,ASHTON MEMORIAL LIVING CENTER,20201105,ID,FREMONT,ASHTON,,Uncategorized LTC,,,,,,Open,,,,,,,,,,3.0,,0.0,,,,,,,,,,3.0,,0.0,,,,,ASHTON MEMORIAL LIVING CENTER,100,True
+Homestead Assisted Living – St.  Anthony,HOMESTEAD ASSISTED LIVING – ST. ANTHONY,,,20201105,ID,FREMONT,ST. ANTHONY,,Uncategorized LTC,,,,,,Open,,,,,,,,,,11.0,,0.0,,,,,,,,,,11.0,,0.0,,,,,,,False
+Apple Valley Residence,APPLE VALLEY RESIDENCE,,,20201105,ID,GEM,EMMETT,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CHERRY RIDGE CENTER,44,False
+Cherry Ridge Center,CHERRY RIDGE CENTER,,CHERRY RIDGE CENTER,20201105,ID,GEM,EMMETT,,Uncategorized LTC,,,,,,Open,,,,,,,,,,43.0,,4.0,,,,,,,,,,43.0,,4.0,,,,,CHERRY RIDGE CENTER,100,True
+Cottages of Emmett,COTTAGES OF EMMETT,,,20201105,ID,GEM,EMMETT,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RIVER'S EDGE REHABILITATION,33,False
+River’s Edge Rehab,RIVER'S EDGE REHABILITATION,,RIVER'S EDGE REHABILITATION,20201105,ID,GEM,EMMETT,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RIVER'S EDGE REHABILITATION,100,True
+Bennett Hills Rehab & Care Center,BENNETT HILLS REHABILITATION AND CARE CENTER,,BENNETT HILLS REHABILITATION AND CARE CENTER,20201105,ID,GOODING,GOODING,,Uncategorized LTC,,,,,,Open,,,,,,,,,,3.0,,0.0,,,,,,,,,,3.0,,0.0,,,,,BENNETT HILLS REHABILITATION AND CARE CENTER,100,True
+Desano Place Assisted Living,DESANO PLACE ASSISTED LIVING,,,20201105,ID,GOODING,GOODING,,Uncategorized LTC,,,,,,Open,,,,,,,,,,11.0,,1.0,,,,,,,,,,11.0,,1.0,,,,,,,False
+Magic Valley Manor,MAGIC VALLEY MANOR,,,20201105,ID,GOODING,WENDELL,,Uncategorized LTC,,,,,,Open,,,,,,,,,,1.0,,0.0,,,,,,,,,,1.0,,0.0,,,,,,,False
+New Beginnings Community Living,NEW BEGINNINGS COMMUNITY LIVING,,,20201105,ID,IDAHO FALLS,BONNEVILLE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,21.0,,0.0,,,,,,,,,,21.0,,0.0,,,,,,,False
+Rigby Country Living Center,RIGBY COUNTRY LIVING CENTER,,,20201105,ID,JEFFERSON,RIGBY,,Uncategorized LTC,,,,,,Open,,,,,,,,,,3.0,,0.0,,,,,,,,,,3.0,,0.0,,,,,,,False
+Sage Grove,SAGE GROVE,,,20201105,ID,JEFFERSON,RIGBY,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Ashley Manor – Lincoln,ASHLEY MANOR – LINCOLN,,,20201105,ID,JEROME,JEROME,,Uncategorized LTC,,,,,,Open,,,,,,,,,,8.0,,0.0,,,,,,,,,,8.0,,0.0,,,,,,,False
+CommuniCare #8 Lincoln,COMMUNICARE #8 LINCOLN,,,20201105,ID,JEROME,JEROME,,Uncategorized LTC,,,,,,Open,,,,,,,,,,15.0,,1.0,,,,,,,,,,15.0,,1.0,,,,,,,False
+Creekside Care Center,CREEKSIDE CARE CENTER,,,20201105,ID,JEROME,JEROME,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Desano Place Assisted Living,DESANO PLACE ASSISTED LIVING,,,20201105,ID,JEROME,JEROME,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Advanced Health Care of Coeur  d’Alene,ADVANCED HEALTH CARE OF COEUR D'ALENE,,ADVANCED HEALTH CARE OF COEUR D'ALENE,20201105,ID,KOOTENAI,COEUR  D’ALENE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,17.0,,0.0,,,,,,,,,,17.0,,0.0,,,,,ADVANCED HEALTH CARE OF COEUR D'ALENE,100,True
+Coeur d’Alene Health and Rehab of  Cascadia,COEUR D’ALENE HEALTH AND REHABILITATION OF CASCADIA,,,20201105,ID,KOOTENAI,COEUR  D’ALENE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,100,False
+Courtyard at Coeur d’Alene,COURTYARD AT COEUR D’ALENE,,,20201105,ID,KOOTENAI,COEUR  D’ALENE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,4.0,,0.0,,,,,,,,,,4.0,,0.0,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,86,False
+Garden at Orchard Ridge,GARDEN AT ORCHARD RIDGE,,,20201105,ID,KOOTENAI,COEUR  D’ALENE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,47,False
+Guardian Angel Homes,GUARDIAN ANGEL HOMES,,,20201105,ID,KOOTENAI,POST FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,31.0,,9.0,,,,,,,,,,31.0,,9.0,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,45,False
+Honeysuckle Senior Living,HONEYSUCKLE SENIOR LIVING,,,20201105,ID,KOOTENAI,HAYDEN,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IVY COURT,38,False
+Ivy Court,IVY COURT,,IVY COURT,20201105,ID,KOOTENAI,COEUR  D’ALENE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,66.0,,13.0,,,,,,,,,,66.0,,13.0,,,,,IVY COURT,100,True
+Lacrosse Health & Rehab,LACROSSE HEALTH AND REHABILITATION,,LACROSSE HEALTH AND REHABILITATION,20201105,ID,KOOTENAI,COEUR  D’ALENE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,98.0,,10.0,,,,,,,,,,98.0,,10.0,,,,,LACROSSE HEALTH AND REHABILITATION,100,True
+Life Care Center of Coeur d’Alene,LIFE CARE CENTER OF COEUR D'ALENE,,LIFE CARE CENTER OF COEUR D'ALENE,20201105,ID,KOOTENAI,COEUR  D’ALENE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,LIFE CARE CENTER OF COEUR D'ALENE,100,True
+Life Care of Post Falls,LIFE CARE OF POST FALLS,,LIFE CARE OF POST FALLS,20201105,ID,KOOTENAI,POST FALLS,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LIFE CARE OF POST FALLS,100,True
+Maplewood Assisted Living,MAPLEWOOD ASSISTED LIVING,,,20201105,ID,KOOTENAI,HAYDEN,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,36,False
+North Star Assisted Living,NORTH STAR ASSISTED LIVING,,,20201105,ID,KOOTENAI,COEUR  D’ALENE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,38,False
+Pacifica Senior Living Coeur d’Alene,PACIFICA SENIOR LIVING COEUR D’ALENE,,,20201105,ID,KOOTENAI,COEUR  D’ALENE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,12.0,,0.0,,,,,,,,,,12.0,,0.0,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,52,False
+Rose Terrace Cottages,ROSE TERRACE COTTAGES,,,20201105,ID,KOOTENAI,COEUR  D’ALENE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,37,False
+Seven Oaks Community Home - Tybalt,SEVEN OAKS COMMUNITY HOME - TYBALT,,,20201105,ID,KOOTENAI,POST FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,4.0,,0.0,,,,,,,,,,4.0,,0.0,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,35,False
+Seven Oaks Community Home –  Larri Lee,SEVEN OAKS COMMUNITY HOME – LARRI LEE,,,20201105,ID,KOOTENAI,POST FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,4.0,,0.0,,,,,,,,,,4.0,,0.0,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,32,False
+Seven Oaks Community Home –  Stephanie,SEVEN OAKS COMMUNITY HOME – STEPHANIE,,,20201105,ID,KOOTENAI,POST FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,3.0,,0.0,,,,,,,,,,3.0,,0.0,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,34,False
+Seven Oaks Community Home – Elm,SEVEN OAKS COMMUNITY HOME – ELM,,,20201105,ID,KOOTENAI,POST FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,8.0,,0.0,,,,,,,,,,8.0,,0.0,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,32,False
+The Bridge at Post Falls,THE BRIDGE AT POST FALLS,,,20201105,ID,KOOTENAI,POST FALLS,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,39,False
+The Lodge at Riverside Harbor,THE LODGE AT RIVERSIDE HARBOR,,,20201105,ID,KOOTENAI,POST FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,1.0,,0.0,,,,,,,,,,1.0,,0.0,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,40,False
+Wellspring Meadows,WELLSPRING MEADOWS,,,20201105,ID,KOOTENAI,HAYDEN,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,COEUR D'ALENE HEALTH AND REHABILITATION OF CASCADIA,30,False
+Good Samaritan Society – Moscow Village,GOOD SAMARITAN SOCIETY – MOSCOW VILLAGE,,GOOD SAMARITAN SOCIETY – MOSCOW VILLAGE,20201105,ID,LATAH,MOSCOW,,Uncategorized LTC,,,,,,Open,,,,,,,,,,14.0,,0.0,,,,,,,,,,14.0,,0.0,,,,,GOOD SAMARITAN SOCIETY – MOSCOW VILLAGE,100,True
+Discovery Rehab and Living,DISCOVERY REHABILITATION AND LIVING,,DISCOVERY REHABILITATION AND LIVING,20201105,ID,LEMHI,SALMON,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,DISCOVERY REHABILITATION AND LIVING,100,True
+Meadows Assisted Living Center,MEADOWS ASSISTED LIVING CENTER,,,20201105,ID,LEMHI,SALMON,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Lakeside Assisted Living,LAKESIDE ASSISTED LIVING,,,20201105,ID,LEWIS,WINCHESTER,,Uncategorized LTC,,,,,,Open,,,,,,,,,,26.0,,2.0,,,,,,,,,,26.0,,2.0,,,,,,,False
+Lincoln County Care Center,LINCOLN COUNTY CARE CENTER,,LINCOLN COUNTY CARE CENTER,20201105,ID,LINCOLN,SHOSHONE,,Uncategorized LTC,,,,,,Open,,,,,,,,,,52.0,,0.0,,,,,,,,,,52.0,,0.0,,,,,LINCOLN COUNTY CARE CENTER,100,True
+Homestead Assisted Living Rexburg,HOMESTEAD ASSISTED LIVING REXBURG,,,20201105,ID,MADISON,REXBURG,,Uncategorized LTC,,,,,,Open,,,,,,,,,,15.0,,0.0,,,,,,,,,,15.0,,0.0,,,,,TEMPLE VIEW TRANSITIONAL CARE,42,False
+Madison Carriage Cove,MADISON CARRIAGE COVE,,MADISON CARRIAGE COVE,20201105,ID,MADISON,REXBURG,,Uncategorized LTC,,,,,,Open,,,,,,,,,,21.0,,0.0,,,,,,,,,,21.0,,0.0,,,,,MADISON CARRIAGE COVE,100,True
+Temple View Transitional Care,TEMPLE VIEW TRANSITIONAL CARE,,TEMPLE VIEW TRANSITIONAL CARE,20201105,ID,MADISON,REXBURG,,Uncategorized LTC,,,,,,Open,,,,,,,,,,4.0,,0.0,,,,,,,,,,4.0,,0.0,,,,,TEMPLE VIEW TRANSITIONAL CARE,100,True
+Autumn Haven Assisted Living,AUTUMN HAVEN ASSISTED LIVING,,,20201105,ID,MINIDOKA,RUPERT,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,COUNTRYSIDE CARE AND REHABILITATION,41,False
+Countryside Care and Rehab,COUNTRYSIDE CARE AND REHABILITATION,,COUNTRYSIDE CARE AND REHABILITATION,20201105,ID,MINIDOKA,RUPERT,,Uncategorized LTC,,,,,,Open,,,,,,,,,,27.0,,5.0,,,,,,,,,,27.0,,5.0,,,,,COUNTRYSIDE CARE AND REHABILITATION,100,True
+Vista Assisted Living,VISTA ASSISTED LIVING,,,20201105,ID,MINIDOKA,RUPERT,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Advanced Health Care of Lewiston,ADVANCED HEALTH CARE OF LEWISTON,,ADVANCED HEALTH CARE OF LEWISTON,20201105,ID,NEZ PERCE,LEWISTON,,Uncategorized LTC,,,,,,Open,,,,,,,,,,8.0,,0.0,,,,,,,,,,8.0,,0.0,,,,,ADVANCED HEALTH CARE OF LEWISTON,100,True
+Lewiston Transitional Care of  Cascadia,LEWISTON TRANSITIONAL CARE OF CASCADIA,,LEWISTON TRANSITIONAL CARE OF CASCADIA,20201105,ID,NEZ PERCE,LEWISTON,,Uncategorized LTC,,,,,,Open,,,,,,,,,,12.0,,0.0,,,,,,,,,,12.0,,0.0,,,,,LEWISTON TRANSITIONAL CARE OF CASCADIA,100,True
+Life Care Center of Lewiston,LIFE CARE CENTER OF LEWISTON,,LIFE CARE CENTER OF LEWISTON,20201105,ID,NEZ PERCE,LEWISTON,,Uncategorized LTC,,,,,,Open,,,,,,,,,,66.0,,19.0,,,,,,,,,,66.0,,19.0,,,,,LIFE CARE CENTER OF LEWISTON,100,True
+Royal Plaza – Lewiston,ROYAL PLAZA – LEWISTON,,ROYAL PLAZA – LEWISTON,20201105,ID,NEZ PERCE,LEWISTON,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ROYAL PLAZA – LEWISTON,100,True
+State Veterans Home - Lewiston,IDAHO STATE VETERANS HOME - LEWISTON,,IDAHO STATE VETERANS HOME - LEWISTON,20201105,ID,NEZ PERCE,LEWISTON,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAHO STATE VETERANS HOME - LEWISTON,100,True
+The Orchards,THE ORCHARDS,,,20201105,ID,NEZ PERCE,LEWISTON,,Uncategorized LTC,,,,,,Open,,,,,,,,,,65.0,,3.0,,,,,,,,,,65.0,,3.0,,,,,PRESTIGE CARE AND REHABILITATION - THE ORCHARDS,90,False
+Owyhee Health & Rehab,OWYHEE HEALTH AND REHABILITATION,,OWYHEE HEALTH AND REHABILITATION,20201105,ID,OWYHEE,HOMEDALE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OWYHEE HEALTH AND REHABILITATION,100,True
+Ashley Manor – Beverly Hills,ASHLEY MANOR – BEVERLY HILLS,,,20201105,ID,PAYETTE,PAYETTE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PAYETTE HEALTHCARE,30,False
+Edgewood Spring Creek Fruitland,EDGEWOOD SPRING CREEK FRUITLAND,,,20201105,ID,PAYETTE,FRUITLAND,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PAYETTE HEALTHCARE,25,False
+Payette Healthcare,PAYETTE HEALTHCARE,,PAYETTE HEALTHCARE,20201105,ID,PAYETTE,PAYETTE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PAYETTE HEALTHCARE,100,True
+Royal Villa Care Center,ROYAL VILLA CARE CENTER,,,20201105,ID,PAYETTE,PAYETTE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+The Cottages - Payette,THE COTTAGES - PAYETTE,,,20201105,ID,PAYETTE,PAYETTE,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Edgewood Spring Creek American  Falls,EDGEWOOD SPRING CREEK AMERICAN FALLS,,,20201105,ID,POWER,AMERICAN  FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,9.0,,0.0,,,,,,,,,,9.0,,0.0,,,,,POWER COUNTY NURSING HOME,33,False
+Power County Nursing Home,POWER COUNTY NURSING HOME,,POWER COUNTY NURSING HOME,20201105,ID,POWER,AMERICAN FALLS,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POWER COUNTY NURSING HOME,100,True
+Good Samaritan Society – Silver  Wood Village,GOOD SAMARITAN SOCIETY – SILVER WOOD VILLAGE,,GOOD SAMARITAN SOCIETY – SILVER WOOD VILLAGE,20201105,ID,SHOSHONE,SILVERTON,,Uncategorized LTC,,,,,,Open,,,,,,,,,,12.0,,0.0,,,,,,,,,,12.0,,0.0,,,,,GOOD SAMARITAN SOCIETY – SILVER WOOD VILLAGE,100,True
+Mountain Valley of Cascadia,MOUNTAIN VALLEY OF CASCADIA,,MOUNTAIN VALLEY OF CASCADIA,20201105,ID,SHOSHONE,KELLOGG,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MOUNTAIN VALLEY OF CASCADIA,100,True
+Pacifica Senior Living Pinehurst,PACIFICA SENIOR LIVING PINEHURST,,,20201105,ID,SHOSHONE,PINEHURST,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Ashley Manor – Buttercup Trail,ASHLEY MANOR – BUTTERCUP TRAIL,,,20201105,ID,TWIN FALLS,KIMBERLY,,Uncategorized LTC,,,,,,Open,,,,,,,,,,5.0,,0.0,,,,,,,,,,5.0,,0.0,,,,,SERENITY TRANSITIONAL CARE,42,False
+Ashley Manor – Parkview,ASHLEY MANOR – PARKVIEW,,,20201105,ID,TWIN FALLS,TWIN FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,28.0,,0.0,,,,,,,,,,28.0,,0.0,,,,,DESERT VIEW CARE,47,False
+Autumn Breeze,AUTUMN BREEZE,,,20201105,ID,TWIN FALLS,BUHL,,Uncategorized LTC,,,,,,Open,,,,,,,,,,5.0,,0.0,,,,,,,,,,5.0,,0.0,,,,,OAK CREEK,45,False
+Bridgeview Estates,BRIDGEVIEW ESTATES,,BRIDGEVIEW ESTATES,20201105,ID,TWIN FALLS,TWIN FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,54.0,,13.0,,,,,,,,,,54.0,,13.0,,,,,BRIDGEVIEW ESTATES,100,True
+Brookdale Twin Falls,BROOKDALE TWIN FALLS,,,20201105,ID,TWIN FALLS,TWIN FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,14.0,,0.0,,,,,,,,,,14.0,,0.0,,,,,TWIN FALLS CARE,76,False
+Chardonnay Assisted Living,CHARDONNAY ASSISTED LIVING,,,20201105,ID,TWIN FALLS,TWIN FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,8.0,,0.0,,,,,,,,,,8.0,,0.0,,,,,DESERT VIEW CARE,38,False
+Desert View Care,DESERT VIEW CARE,,DESERT VIEW CARE,20201105,ID,TWIN FALLS,BUHL,,Uncategorized LTC,,,,,,Open,,,,,,,,,,47.0,,2.0,,,,,,,,,,47.0,,2.0,,,,,DESERT VIEW CARE,100,True
+Evergreen Place Assisted Living,EVERGREEN PLACE ASSISTED LIVING,,,20201105,ID,TWIN FALLS,BUHL,,Uncategorized LTC,,,,,,Open,,,,,,,,,,2.0,,0.0,,,,,,,,,,2.0,,0.0,,,,,SERENITY TRANSITIONAL CARE,40,False
+Grace Assisted Living – Twin Falls,GRACE ASSISTED LIVING – TWIN FALLS,,,20201105,ID,TWIN FALLS,TWIN FALLS,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TWIN FALLS CARE,86,False
+Harmony Place,HARMONY PLACE,,,20201105,ID,TWIN FALLS,TWIN FALLS,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OAK CREEK,36,False
+Heritage Assisted Living,HERITAGE ASSISTED LIVING,,,20201105,ID,TWIN FALLS,TWIN FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,24.0,,0.0,,,,,,,,,,24.0,,0.0,,,,,SERENITY TRANSITIONAL CARE,44,False
+Oak Creek,OAK CREEK,,OAK CREEK,20201105,ID,TWIN FALLS,KIMBERLY,,Uncategorized LTC,,,,,,Open,,,,,,,,,,10.0,,0.0,,,,,,,,,,10.0,,0.0,,,,,OAK CREEK,100,True
+River Rock Assisted Living,RIVER ROCK ASSISTED LIVING,,,20201105,ID,TWIN FALLS,BUHL,,Uncategorized LTC,,,,,,Open,,,,,,,,,,19.0,,0.0,,,,,,,,,,19.0,,0.0,,,,,SERENITY TRANSITIONAL CARE,38,False
+Rosetta Assisted Living -Twin Falls,ROSETTA ASSISTED LIVING -TWIN FALLS,,,20201105,ID,TWIN FALLS,TWIN FALLS,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TWIN FALLS CARE,86,False
+Serenity Transitional Care,SERENITY TRANSITIONAL CARE,,SERENITY TRANSITIONAL CARE,20201105,ID,TWIN FALLS,TWIN FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,17.0,,0.0,,,,,,,,,,17.0,,0.0,,,,,SERENITY TRANSITIONAL CARE,100,True
+The Canyons Retirement Community,THE CANYONS RETIREMENT COMMUNITY,,,20201105,ID,TWIN FALLS,TWIN FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,38.0,,11.0,,,,,,,,,,38.0,,11.0,,,,,TWIN FALLS CARE,42,False
+Twin Falls Care,TWIN FALLS CARE,,TWIN FALLS CARE,20201105,ID,TWIN FALLS,TWIN FALLS,,Uncategorized LTC,,,,,,Open,,,,,,,,,,9.0,,0.0,,,,,,,,,,9.0,,0.0,,,,,TWIN FALLS CARE,100,True
+McCall Rehab and Care Center,MCCALL REHABILITATION AND CARE CENTER,,MCCALL REHABILITATION AND CARE CENTER,20201105,ID,VALLEY,MCCALL,,Uncategorized LTC,,,,,,Open,,,,,,,,,,1.0,,0.0,,,,,,,,,,1.0,,0.0,,,,,MCCALL REHABILITATION AND CARE CENTER,100,True
+Communicare #6 Weiser,COMMUNICARE #6 WEISER,,,20201105,ID,WASHINGTON,WEISER,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WEISER CARE OF CASCADIA,48,False
+Cottages of Weiser,COTTAGES OF WEISER,,,20201105,ID,WASHINGTON,WEISER,,Uncategorized LTC,,,,,,Closed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WEISER CARE OF CASCADIA,65,False
+Indianhead Estates,INDIANHEAD ESTATES,,,20201105,ID,WASHINGTON,WEISER,,Uncategorized LTC,,,,,,Open,,,,,,,,,,6.0,,0.0,,,,,,,,,,6.0,,0.0,,,,,WEISER CARE OF CASCADIA,32,False
+Weiser Care of Cascadia,WEISER CARE OF CASCADIA,,WEISER CARE OF CASCADIA,20201105,ID,WASHINGTON,WEISER,,Uncategorized LTC,,,,,,Open,,,,,,,,,,15.0,,0.0,,,,,,,,,,15.0,,0.0,,,,,WEISER CARE OF CASCADIA,100,True
