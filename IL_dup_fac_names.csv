@@ -1,78 +1,78 @@
-,County,FacilityName,CMS_ProvNum,ReportingDate,confirmed_cases,deaths,CFR,outbreaks,Closed_Outbreaks,Open_Outbreaks,facilities
-720,Kane,The Grove Fox Valley,145006,2020-12-04,96,15,0.15625,2,1,1,1
-722,Kane,The Grove of Fox Valley,145006,2020-12-04,7,0,0.0,1,1,0,1
-731,Kankakee,Citadel Care Center of Kankakee,145043,2020-12-04,5,0,0.0,1,1,0,1
-732,Kankakee,Citadel of Kankakee,145043,2020-12-04,77,2,0.025974025974025976,1,0,1,1
-978,McHenry,Crossroads Care Center,145222,2020-12-04,4,0,0.0,1,0,1,1
-977,McHenry,Cross Roads Care Center,145222,2020-12-04,71,13,0.18309859154929578,1,1,0,1
-51,Champaign,University Rehab Center,145364,2020-12-04,26,1,0.038461538461538464,2,1,1,1
-52,Champaign,University Rehabilitation Center,145364,2020-12-04,4,0,0.0,1,1,0,1
-1079,Peoria,University Rehab Center,145364,2020-12-04,54,16,0.2962962962962963,1,1,0,1
-1313,Will,symphony of joliet,145372,2020-12-04,130,25,0.19230769230769232,1,1,0,1
-1305,Will,Symphony of Joliet,145372,2020-12-04,9,0,0.0,2,1,1,1
-585,Effingham,Lutheran Care Center,145380,2020-12-04,22,1,0.045454545454545456,1,0,1,1
-586,Effingham,Lutheran care Center,145380,2020-12-04,23,3,0.13043478260869565,1,0,1,1
-58,Christian,Prairie Rose,145411,2020-12-04,2,0,0.0,1,0,1,1
-63,Christian,prairie rose,145411,2020-12-04,3,0,0.0,1,0,1,1
-38,Champaign,Champaign Urbana Nursing and Rehab,145439,2020-12-04,37,1,0.02702702702702703,1,0,1,1
-39,Champaign,Champaign-Urbana Nursing and Rehab,145439,2020-12-04,4,1,0.25,1,1,0,1
-1050,Ogle,Generations at Neighbors,145440,2020-12-04,115,15,0.13043478260869565,1,0,1,1
-1049,Ogle,Generations At Neighbors,145440,2020-12-04,5,0,0.0,1,1,0,1
-1214,Tazewell,Generations Riverview SNF,145524,2020-12-04,40,10,0.25,1,0,1,1
-1216,Tazewell,Generations at Riverview,145524,2020-12-04,9,2,0.2222222222222222,2,2,0,1
-1167,St. Clair,Caseyville Care Center2,145585,2020-12-04,97,0,0.0,1,0,1,1
-1163,St. Clair,CASEYVILLE CARE CENTER,145585,2020-12-04,15,1,0.06666666666666667,1,0,1,1
-315,Cook,ManorCare Palos Heights East,145607,2020-12-04,67,12,0.1791044776119403,1,1,0,1
-310,Cook,Manor Care Palos Heights East,145607,2020-12-04,72,9,0.125,1,0,1,1
-749,Kendall,Hillside Rehab and Care Center,145609,2020-12-04,8,1,0.125,1,0,1,1
-748,Kendall,Hillside Rehab and Care,145609,2020-12-04,8,2,0.25,1,1,0,1
-806,Lake,ELEVATE CARE WAUKEGAN,145669,2020-12-04,17,0,0.0,1,0,1,1
-808,Lake,Elevate Care Waukegan,145669,2020-12-04,74,13,0.17567567567567569,1,1,0,1
-204,Cook,Chalet Living And Rehab Center,145670,2020-12-04,97,14,0.14432989690721648,1,1,0,1
-205,Cook,Chalet Living and Rehab,145670,2020-12-04,11,0,0.0,1,0,1,1
-672,Kane,Avantara of Elgin,145699,2020-12-04,63,13,0.20634920634920634,1,0,1,1
-670,Kane,Avantara Elgin,145699,2020-12-04,37,4,0.10810810810810811,1,1,0,1
-293,Cook,Lexington of Chicago Ridge,145700,2020-12-04,23,12,0.5217391304347826,1,1,0,1
-291,Cook,Lexington Of Chicago Ridge,145700,2020-12-04,22,0,0.0,1,0,1,1
-75,Clinton,Carlyle Healthcare Center,145729,2020-12-04,36,1,0.027777777777777776,1,0,1,1
-74,Clinton,Carlyle HealthCare Center,145729,2020-12-04,85,15,0.17647058823529413,1,1,0,1
-368,Cook,Presence Maryhaven,145741,2020-12-04,10,0,0.0,1,0,1,1
-367,Cook,Presence MaryHaven,145741,2020-12-04,13,4,0.3076923076923077,1,1,0,1
-180,Cook,Bria Place of Indian Head Park,145784,2020-12-04,32,7,0.21875,1,1,0,1
-179,Cook,Bria Place,145784,2020-12-04,5,0,0.0,1,0,1,1
-821,Lake,Lexington Of Lake Zurich,145816,2020-12-04,5,0,0.0,1,0,1,1
-822,Lake,Lexington of Lake Zurich,145816,2020-12-04,50,12,0.24,1,1,0,1
-848,Lake,Symphony Buffalo Grove,145819,2020-12-04,99,10,0.10101010101010101,1,0,1,1
-849,Lake,Symphony of Buffalo Grove,145819,2020-12-04,16,3,0.1875,1,0,1,1
-552,DuPage,St. Patricks Residence Nursing & Rehabilitation,145878,2020-12-04,4,0,0.0,1,1,0,1
-553,DuPage,St. Patricks Residence Nursing and Rehabilitation,145878,2020-12-04,96,3,0.03125,1,0,1,1
-313,Cook,ManorCare Health Services-Palos Heights West,145893,2020-12-04,55,16,0.2909090909090909,1,1,0,1
-307,Cook,Manor Care Health Services- Palos Heights West,145893,2020-12-04,12,0,0.0,1,0,1,1
-1331,Winnebago,Amberwood Care Center,145908,2020-12-04,27,1,0.037037037037037035,2,1,1,1
-1330,Winnebago,Amberwood,145908,2020-12-04,72,11,0.1527777777777778,1,1,0,1
-779,Lake,APERION CARE HIGHWOOD,145936,2020-12-04,2,0,0.0,1,1,0,1
-783,Lake,Aperion Care Highwood,145936,2020-12-04,101,13,0.12871287128712872,2,1,1,1
-470,DeKalb,Bethany Rehabilitation and Health Care Center,145958,2020-12-04,2,0,0.0,1,1,0,1
-469,DeKalb,Bethany Rehab and Health Care Center #2,145958,2020-12-04,43,0,0.0,1,0,1,1
-276,Cook,Inverness Health and Rehab Center,145994,2020-12-04,37,9,0.24324324324324326,1,0,1,1
-275,Cook,Inverness Health and Rehab,145994,2020-12-04,23,0,0.0,1,1,0,1
-100,Cook,Alden,145998,2020-12-04,40,3,0.075,1,0,1,1
-101,Cook,Alden Estates Des Plaines,145998,2020-12-04,30,4,0.13333333333333333,2,1,1,1
-45,Champaign,Illini Heritage Rehab And Health,146017,2020-12-04,58,7,0.1206896551724138,1,0,1,1
-46,Champaign,Illini Heritage Rehab and Health,146017,2020-12-04,2,0,0.0,1,1,0,1
-247,Cook,Franciscan Village,146029,2020-12-04,52,6,0.11538461538461539,2,0,2,1
-248,Cook,Franciscan Village - Mother Teresa House,146029,2020-12-04,22,2,0.09090909090909091,1,0,1,1
-750,Kendall,Symphony At The Tillers of Oswego,146034,2020-12-04,50,9,0.18,1,1,0,1
-751,Kendall,Symphony at the Tillers of Oswego,146034,2020-12-04,11,1,0.09090909090909091,1,0,1,1
-422,Cook,The Mather,146145,2020-12-04,25,4,0.16,1,0,1,1
-423,Cook,The Mather Evanston,146145,2020-12-04,7,0,0.0,1,1,0,1
-1272,Will,Alden Estates Of Shorewood,146153,2020-12-04,5,0,0.0,1,0,1,1
-1273,Will,Alden Estates of Shorewood,146153,2020-12-04,28,4,0.14285714285714285,1,1,0,1
-695,Kane,GreenFields of Geneva,146166,2020-12-04,4,0,0.0,1,1,0,1
-696,Kane,Greenfields of Geneva,146166,2020-12-04,28,0,0.0,2,1,1,1
-661,Kane,Alden of Waterford,146182,2020-12-04,41,10,0.24390243902439024,1,1,0,1
-657,Kane,Alden Courts of Waterford,146182,2020-12-04,8,0,0.0,1,1,0,1
-279,Cook,LITTLE SISTERS OF THE POOR ST MARYS HOME,146185,2020-12-04,10,0,0.0,1,0,1,1
-297,Cook,Little Sisters of the Poor/St. Marys Home,146185,2020-12-04,61,13,0.21311475409836064,1,1,0,1
-1077,Peoria,Sharon Healthcare Willows,14E888,2020-12-04,21,0,0.0,1,0,1,1
-1078,Peoria,Sharon Healthcare Willows South,14E888,2020-12-04,4,1,0.25,1,1,0,1
+,County,FacilityName2,CMS_ProvNum,ReportingDate,confirmed_cases,deaths,CFR,outbreaks,Closed_Outbreaks,Open_Outbreaks,facilities
+767,Kane,The Grove Fox Valley,145006,2021-01-01,168,21,0.125,2,1,1,1
+769,Kane,The Grove of Fox Valley,145006,2021-01-01,7,0,0.0,1,1,0,1
+779,Kankakee,Citadel Care Center of Kankakee,145043,2021-01-01,5,0,0.0,1,0,1,1
+780,Kankakee,Citadel of Kankakee,145043,2021-01-01,80,2,0.025,1,0,1,1
+1046,McHenry,Cross Roads Care Center,145222,2021-01-01,71,13,0.18309859154929578,1,1,0,1
+1047,McHenry,Crossroads Care Center,145222,2021-01-01,37,3,0.08108108108108109,1,0,1,1
+58,Champaign,University Rehabilitation Center,145364,2021-01-01,4,0,0.0,1,1,0,1
+57,Champaign,University Rehab Center,145364,2021-01-01,31,1,0.03225806451612903,2,1,1,1
+1156,Peoria,University Rehab Center,145364,2021-01-01,54,16,0.2962962962962963,1,1,0,1
+1420,Will,symphony of joliet,145372,2021-01-01,130,25,0.19230769230769232,1,1,0,1
+1410,Will,Symphony of Joliet,145372,2021-01-01,12,0,0.0,2,1,1,1
+65,Christian,Prairie Rose,145411,2021-01-01,2,0,0.0,1,0,1,1
+70,Christian,prairie rose,145411,2021-01-01,5,3,0.6,1,0,1,1
+45,Champaign,Champaign-Urbana Nursing and Rehab,145439,2021-01-01,4,1,0.25,1,1,0,1
+44,Champaign,Champaign Urbana Nursing and Rehab,145439,2021-01-01,92,7,0.07608695652173914,1,0,1,1
+1124,Ogle,Generations at Neighbors,145440,2021-01-01,115,22,0.19130434782608696,1,0,1,1
+1123,Ogle,Generations At Neighbors,145440,2021-01-01,5,0,0.0,1,1,0,1
+1313,Tazewell,Generations at Riverview,145524,2021-01-01,22,5,0.22727272727272727,3,3,0,1
+1311,Tazewell,Generations Riverview SNF,145524,2021-01-01,69,11,0.15942028985507245,1,0,1,1
+1256,St. Clair,Caseyville Care Center2,145585,2021-01-01,128,7,0.0546875,1,0,1,1
+1252,St. Clair,CASEYVILLE CARE CENTER,145585,2021-01-01,15,1,0.06666666666666667,1,0,1,1
+338,Cook,Manor Care Palos Heights East,145607,2021-01-01,93,13,0.13978494623655913,1,0,1,1
+343,Cook,ManorCare Palos Heights East,145607,2021-01-01,67,12,0.1791044776119403,1,1,0,1
+797,Kendall,Hillside Rehab and Care,145609,2021-01-01,8,2,0.25,1,1,0,1
+798,Kendall,Hillside Rehab and Care Center,145609,2021-01-01,16,1,0.0625,1,0,1,1
+858,Lake,ELEVATE CARE WAUKEGAN,145669,2021-01-01,29,1,0.034482758620689655,1,0,1,1
+860,Lake,Elevate Care Waukegan,145669,2021-01-01,74,13,0.17567567567567569,1,1,0,1
+223,Cook,Chalet Living And Rehab Center,145670,2021-01-01,97,14,0.14432989690721648,1,1,0,1
+224,Cook,Chalet Living and Rehab,145670,2021-01-01,16,0,0.0,1,0,1,1
+722,Kane,Avantara of Elgin,145699,2021-01-01,72,15,0.20833333333333334,1,0,1,1
+720,Kane,Avantara Elgin,145699,2021-01-01,37,4,0.10810810810810811,1,1,0,1
+318,Cook,Lexington Of Chicago Ridge,145700,2021-01-01,32,2,0.0625,1,0,1,1
+320,Cook,Lexington of Chicago Ridge,145700,2021-01-01,23,12,0.5217391304347826,1,1,0,1
+82,Clinton,Carlyle HealthCare Center,145729,2021-01-01,85,15,0.17647058823529413,1,1,0,1
+83,Clinton,Carlyle Healthcare Center,145729,2021-01-01,36,1,0.027777777777777776,1,0,1,1
+400,Cook,Presence Maryhaven,145741,2021-01-01,17,3,0.17647058823529413,1,0,1,1
+399,Cook,Presence MaryHaven,145741,2021-01-01,13,4,0.3076923076923077,1,1,0,1
+198,Cook,Bria Place of Indian Head Park,145784,2021-01-01,32,7,0.21875,1,1,0,1
+197,Cook,Bria Place,145784,2021-01-01,5,0,0.0,1,0,1,1
+874,Lake,Lexington of Lake Zurich,145816,2021-01-01,50,12,0.24,1,1,0,1
+873,Lake,Lexington Of Lake Zurich,145816,2021-01-01,5,2,0.4,1,0,1,1
+901,Lake,Symphony Buffalo Grove,145819,2021-01-01,99,10,0.10101010101010101,1,0,1,1
+902,Lake,Symphony of Buffalo Grove,145819,2021-01-01,34,5,0.14705882352941177,1,0,1,1
+597,DuPage,St. Patricks Residence Nursing and Rehabilitation,145878,2021-01-01,200,16,0.08,1,0,1,1
+596,DuPage,St. Patricks Residence Nursing & Rehabilitation,145878,2021-01-01,4,0,0.0,1,1,0,1
+334,Cook,Manor Care Health Services- Palos Heights West,145893,2021-01-01,14,0,0.0,1,0,1,1
+341,Cook,ManorCare Health Services-Palos Heights West,145893,2021-01-01,55,16,0.2909090909090909,1,1,0,1
+1439,Winnebago,Amberwood Care Center,145908,2021-01-01,55,6,0.10909090909090909,2,1,1,1
+1438,Winnebago,Amberwood,145908,2021-01-01,72,11,0.1527777777777778,1,1,0,1
+830,Lake,APERION CARE HIGHWOOD,145936,2021-01-01,2,0,0.0,1,1,0,1
+834,Lake,Aperion Care Highwood,145936,2021-01-01,103,13,0.1262135922330097,2,1,1,1
+509,DeKalb,Bethany Rehabilitation and Health Care Center,145958,2021-01-01,2,0,0.0,1,1,0,1
+508,DeKalb,Bethany Rehab and Health Care Center #2,145958,2021-01-01,97,3,0.030927835051546393,1,0,1,1
+300,Cook,Inverness Health and Rehab,145994,2021-01-01,23,0,0.0,1,1,0,1
+301,Cook,Inverness Health and Rehab Center,145994,2021-01-01,48,13,0.2708333333333333,1,0,1,1
+118,Cook,Alden,145998,2021-01-01,41,3,0.07317073170731707,1,0,1,1
+119,Cook,Alden Estates Des Plaines,145998,2021-01-01,44,7,0.1590909090909091,2,1,1,1
+51,Champaign,Illini Heritage Rehab And Health,146017,2021-01-01,59,8,0.13559322033898305,1,0,1,1
+52,Champaign,Illini Heritage Rehab and Health,146017,2021-01-01,2,0,0.0,1,1,0,1
+270,Cook,Franciscan Village,146029,2021-01-01,54,7,0.12962962962962962,2,0,2,1
+271,Cook,Franciscan Village - Mother Teresa House,146029,2021-01-01,43,5,0.11627906976744186,1,0,1,1
+799,Kendall,Symphony At The Tillers of Oswego,146034,2021-01-01,50,9,0.18,1,1,0,1
+800,Kendall,Symphony at the Tillers of Oswego,146034,2021-01-01,10,1,0.1,1,1,0,1
+459,Cook,The Mather Evanston,146145,2021-01-01,7,0,0.0,1,1,0,1
+458,Cook,The Mather,146145,2021-01-01,28,4,0.14285714285714285,1,0,1,1
+1377,Will,Alden Estates of Shorewood,146153,2021-01-01,28,4,0.14285714285714285,1,1,0,1
+1376,Will,Alden Estates Of Shorewood,146153,2021-01-01,8,0,0.0,1,0,1,1
+745,Kane,Greenfields of Geneva,146166,2021-01-01,39,0,0.0,2,1,1,1
+744,Kane,GreenFields of Geneva,146166,2021-01-01,4,0,0.0,1,1,0,1
+709,Kane,Alden Courts of Waterford,146182,2021-01-01,8,0,0.0,1,1,0,1
+713,Kane,Alden of Waterford,146182,2021-01-01,69,11,0.15942028985507245,2,1,1,1
+305,Cook,LITTLE SISTERS OF THE POOR ST MARYS HOME,146185,2021-01-01,17,0,0.0,1,0,1,1
+324,Cook,Little Sisters of the Poor/St. Marys Home,146185,2021-01-01,61,13,0.21311475409836064,1,1,0,1
+710,Kane,Alden Estates Courts of Huntley,146186,2021-01-01,9,0,0.0,1,1,0,1
+711,Kane,Alden Estates-Courts of Huntley,146186,2021-01-01,48,2,0.041666666666666664,1,0,1,1
+1153,Peoria,Sharon Healthcare Willows,14E888,2021-01-01,100,2,0.02,1,0,1,1
+1154,Peoria,Sharon Healthcare Willows South,14E888,2021-01-01,4,1,0.25,1,1,0,1

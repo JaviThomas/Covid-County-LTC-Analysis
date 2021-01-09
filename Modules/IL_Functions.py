@@ -4,6 +4,8 @@ import urllib.request as urllib2
 import json
 import glob
 import IPython.display
+import re
+
 
 pd.options.display.max_columns = None
 
@@ -24,6 +26,8 @@ def getResponse(url):
     return jsonData
 
 def facility2CMSNum (facilityName):
+    regex = re.compile('\(\d\)')
+    facilityName = regex.split(facilityName)[0].strip()
     if facilityName in ltc_name2cms_id:
         return ltc_name2cms_id[facilityName]
     else:
@@ -33,6 +37,30 @@ def facility2CMSNum (facilityName):
 # df_facilities['county-facName']= df_facilities['County'].str.upper() + '-' + df_facilities['FacilityName'].str.upper()
 # df_facilities['CMS_ProvNum'] = df_facilities['county-facName'].apply(lambda x: facility2CMSNum(x))
 
+
+def pull_IL_json_from_file(file):
+    '''
+    - Get IL data from JSON file
+    
+    Return: Reporting Date: str, DataFrame of Outbreak data: dict
+    '''
+    #Get IL data from JSON
+    ltc_data = getResponse('https://idph.illinois.gov/DPHPublicInformation/api/covid/getltcdata')
+    ltc_data_json = json.dumps(ltc_data)
+
+    # Extract Reporting Data
+    reporting_date = '%d-%02d-%02d' %(ltc_data['LastUpdateDate']['year'], ltc_data['LastUpdateDate']['month'], ltc_data['LastUpdateDate']['day'])
+
+    #Saving a copy of source data 
+    ltc_data_json = json.dumps(ltc_data)
+    file = "Source_data/IL_" + reporting_date + "_LTC_data_Source.json"
+    with open(file, "w") as f:
+        f.write(ltc_data_json)
+    
+    # Get Reporting Date
+    reporting_date = '%d-%02d-%02d' % (ltc_data['LastUpdateDate']['year'], ltc_data['LastUpdateDate']['month'], ltc_data['LastUpdateDate']['day'])
+
+    return reporting_date, ltc_data
 
 def pull_IL_json_from_web():
     '''
@@ -79,7 +107,7 @@ def outbreak_df_from_file(outbreak_data, ltc_name2cms_id):
     df['CMS_ProvNum'] = df['county-facName'].apply(lambda x: facility2CMSNum(x))
     
     #Save Outbreak data to a file
-    outbreak_file = 'Reporting_data/IL_' + reporting_date + '_Outbreaks_LTC_data_v2.csv'
+    outbreak_file = 'Reporting_data/IL_' + reporting_date + '_Outbreaks_LTC_data_v4.csv'
     df.to_csv(outbreak_file, index = False)
     
     # Get summary data from feed - Note this may not match totals - ST-TODO: Check if summary data and totals from raw data match
@@ -114,27 +142,36 @@ def process_IL_dict(IL_data, ltc_name2cms_id, display_dfs=False, display_summary
     '''
     [outbreak_df, summary, reporting_date] = outbreak_df_from_file(IL_data, ltc_name2cms_id)
 
-    if display_summary:
-        for k,v in summary.items():
-            print(k + ": " + str(v))    
 
     # Augment Outbreak DF to count open/closed
     outbreak_df['Closed_Outbreaks'] = outbreak_df['status'].apply(lambda x: 1 if x == "Closed" else 0)
     outbreak_df['Open_Outbreaks'] = outbreak_df['status'].apply(lambda x: 1 if x == "Open" else 0)
 
+    
+    # V2 - Remove cases of duplicate Outbreaks where they append (#) to end of Facility name to allow proper aggregation at the facility level
+    regex = re.compile('\(\d\)')
+    outbreak_df['FacilityName2'] = outbreak_df['FacilityName'].apply(lambda x: regex.split(x)[0].strip())
+
+    
     # Save and Display Facility data
-    df_facilities = outbreak_df.groupby(['County', 'FacilityName', 'CMS_ProvNum']).sum()
+    df_facilities = outbreak_df.groupby(['County', 'FacilityName2', 'CMS_ProvNum']).sum()
     df_facilities['CFR'] = df_facilities['deaths'] / df_facilities['confirmed_cases']
     df_facilities['facilities'] = 1
     df_facilities.insert(0, 'ReportingDate', reporting_date)
-    df_facilities.sort_values(by='confirmed_cases', ascending=False).to_csv('Reporting_data/IL_' + reporting_date + '_Facilities_LTC_data_v2.csv')
+    df_facilities.sort_values(by='confirmed_cases', ascending=False).to_csv('Reporting_data/IL_' + reporting_date + '_Facilities_LTC_data_v4.csv')
 
+
+    summary['Facilities'] = len(df_facilities)
+    if display_summary:
+        for k,v in summary.items():
+             print(k + ": " + str(v))
+    
     # Save and Display County Level Data
     df_county = df_facilities.groupby(by=['County']).sum()
     df_county['CFR'] = (df_county['deaths'] / df_county['confirmed_cases'])
     df_county.insert(0, 'ReportingDate', reporting_date)
-    filename = 'Reporting_data/IL_' + reporting_date + '_County_LTC_stats_v2.csv'
-    df_county.sort_values('confirmed_cases', ascending=False).to_csv('Reporting_data/IL_' + reporting_date + '_County_LTC_stats_v2.csv')
+    filename = 'Reporting_data/IL_' + reporting_date + '_County_LTC_stats_v4.csv'
+    df_county.sort_values('confirmed_cases', ascending=False).to_csv('Reporting_data/IL_' + reporting_date + '_County_LTC_stats_v4.csv')
     
     
     if display_dfs:
